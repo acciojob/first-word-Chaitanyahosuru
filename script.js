@@ -1,7 +1,5 @@
-function firstWord(s) {
-  // your code here
-	
 function firstWord(str) {
+  // your code here
 
     if (str.length === 0) {
         return '';
@@ -15,7 +13,7 @@ function firstWord(str) {
     return str.substring(0, spaceIndex);
 }
 
-}
+
 
 
 // Do not change the code below
