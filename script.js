@@ -1,5 +1,5 @@
-function firstWord(str) {
-   s = s.trim();
+function firstWord(s) {
+s = s.trim();
  const spaceIndex = s.indexOf(' ');
  if (spaceIndex === -1)
  {
