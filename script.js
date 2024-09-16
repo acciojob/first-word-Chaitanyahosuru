@@ -10,4 +10,4 @@ s = s.trim();
 
 
 const s = prompt("Enter String:");
-alert(firstWord(str));
+alert(firstWord(s));
